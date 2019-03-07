@@ -1,0 +1,3 @@
+Did not have software to write output from a spectrophotometer at work so I made a spaghetti-code script to "screen" the output from the device.
+
+Includes some sanity checks as to not overwrite files, use invalid file names etc.
